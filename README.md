@@ -1,9 +1,9 @@
-[![MasterHead](https://postimg.cc/4HzYKR8b)](https://postimg.cc/4HzYKR8b)
+[![MasterHead](https://i.postimg.cc/D0NLM2LD/vfx-man.png)](https://i.postimg.cc/D0NLM2LD/vfx-man.png)
+
 <h1 align="center">Hi 👋, I'm Euan Goodbrand</h1>
 <h3 align="center">A passionate Software Developer with an interest in Visual Effects!</h3>
 
-<img align="right" alt="Blackhole VFX" width "400" src="https://s11.gifyu.com/images/SuOEO.gif">
-
+[![SuOEO.gif](https://s11.gifyu.com/images/SuOEO.gif)](https://s11.gifyu.com/images/SuOEO.gif)
 - 🔭 I’m currently working on **iBirch, Computer Vision Plant Pot**
 
 - 🌱 I’m currently learning **TensorFlow**
