@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Euan Goodbrand</h1>
 <h3 align="center">A passionate Software Developer with an interest in Visual Effects!</h3>
 
-<img align="right" alt="Blackhole VFX" width "400" src="https://gifyu.com/image/SuOEO">
+<img align="right" alt="Blackhole VFX" width "400" src="https://s11.gifyu.com/images/SuOEO.gif">
 
 - 🔭 I’m currently working on **iBirch, Computer Vision Plant Pot**
 
