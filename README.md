@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **euangoodbrand@aol.com**
+- 📫 How to reach me **euangoodbrand@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
