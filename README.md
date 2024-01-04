@@ -1,12 +1,12 @@
 [![MasterHead](https://i.postimg.cc/D0NLM2LD/vfx-man.png)](https://i.postimg.cc/D0NLM2LD/vfx-man.png)
 
 <h1 align="center">Hi 👋, I'm Euan Goodbrand</h1>
-<h3 align="center">A passionate Software Developer with an interest in Visual Effects!</h3>
+<h3 align="center">A passionate Software Developer focused on AI/ML with an interest in Visual Effects</h3>
 
 [![SuOEO.gif](https://s11.gifyu.com/images/SuOEO.gif)](https://s11.gifyu.com/images/SuOEO.gif)
-- 🔭 I’m currently working on **iBirch, Computer Vision Plant Pot**
+- 🔭 I’m currently studying **MSc in AI and ML @ ICL**
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Double deep Q-learning network applications**
 
 - 📫 How to reach me **euangoodbrand@gmail.com**
 
