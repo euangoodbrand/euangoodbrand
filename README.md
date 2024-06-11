@@ -1,5 +1,7 @@
-[![MasterHead](https://i.postimg.cc/D0NLM2LD/vfx-man.png)](https://i.postimg.cc/D0NLM2LD/vfx-man.png)
-<img src="https://i.postimg.cc/D0NLM2LD/vfx-man.png" alt="MasterHead" width="300">
+<a href="https://i.postimg.cc/D0NLM2LD/vfx-man.png">
+  <img src="https://i.postimg.cc/D0NLM2LD/vfx-man.png" alt="MasterHead" width="300">
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Euan Goodbrand</h1>
 <h3 align="center">A passionate Software Developer focused on AI/ML with an interest in Visual Effects</h3>
