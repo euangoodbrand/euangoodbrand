@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/3D-printing.svg" height="40" alt="3D Printing">
+  <img src="Assets/3D-printing.svg" height="40" alt="3D Printing">
   <span style="font-size: 22px; margin: 0 15px;">Euan Goodbrand</span>
-  <img src="assets/battery.svg" height="40" alt="Battery">
+  <img src="Assets/battery.svg" height="40" alt="Battery">
 </p>
 
 <ul style="list-style: none; text-align: center; padding: 0;">
