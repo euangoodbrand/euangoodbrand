@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/page_bottom.svg" alt="Header Image" style="width: 100%; transform: rotate(180deg);">
+</div>
+
+<div align="center">
   <a href="https://i.postimg.cc/D0NLM2LD/vfx-man.png">
     <img src="https://i.postimg.cc/D0NLM2LD/vfx-man.png" alt="MasterHead" style="width: 50%;">
   </a>
