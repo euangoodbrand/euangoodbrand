@@ -6,21 +6,18 @@
   </a>
 </p>
 
+
 <div align="center" style="margin: 20px 0;">
-  <p style="display: flex; align-items: center; justify-content: center; margin: 10px 0;">
-    <span style="font-size: 22px; margin-right: 8px;">🔭</span>
-    <a href="https://github.com/euangoodbrand/euangoodbrand">
-      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=20C20E&vCenter=true&pause=1000&size=22" />
-    </a>
-  </p>
-  <p style="display: flex; align-items: center; justify-content: center;">
-    <span style="font-size: 22px; margin-right: 8px;">🌱</span>
-    <a href="https://github.com/euangoodbrand/euangoodbrand">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=20C20E&vCenter=true&pause=1000&size=22" />
-    </a>
-  </p>
+  <a href="https://github.com/euangoodbrand/euangoodbrand">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+  </a>
 </div>
 
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/euangoodbrand/euangoodbrand">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+  </a>
+</div>
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/euangoodbrand/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
