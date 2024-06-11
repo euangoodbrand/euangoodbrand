@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="Assets/3D-printing.svg" height="90" alt="3D Printing" style="vertical-align: middle;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=600&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" style="vertical-align: middle;" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=600&height=60&color=20C20E&vCenter=true&pause=1000&size=22" style="vertical-align: middle;" />
     <img src="Assets/battery.svg" height="90" alt="Battery" style="vertical-align: middle;">
   </a>
 </p>
@@ -10,13 +10,13 @@
   <p style="display: flex; align-items: center; justify-content: center; margin: 10px 0;">
     <span style="font-size: 22px; margin-right: 8px;">🔭</span>
     <a href="https://github.com/euangoodbrand/euangoodbrand">
-      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=20C20E&vCenter=true&pause=1000&size=22" />
     </a>
   </p>
   <p style="display: flex; align-items: center; justify-content: center;">
     <span style="font-size: 22px; margin-right: 8px;">🌱</span>
     <a href="https://github.com/euangoodbrand/euangoodbrand">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=20C20E&vCenter=true&pause=1000&size=22" />
     </a>
   </p>
 </div>
