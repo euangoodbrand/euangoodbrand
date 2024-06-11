@@ -18,7 +18,7 @@
   </li>
   <li>🌱
     <a href="https://github.com/euangoodbrand/euangoodbrand">
-      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20learning%20Double%20deep%20Q-learning%20network%20applications&font=Fira%20Code&center=true&width=800&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20Currently%20learning%20Double%20deep%20Q-learning%20network%20applications&font=Fira%20Code&center=true&width=800&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
     </a>
   </li>
 </ul>
