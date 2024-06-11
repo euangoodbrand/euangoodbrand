@@ -1,6 +1,8 @@
-<a href="https://i.postimg.cc/D0NLM2LD/vfx-man.png">
-  <img src="https://i.postimg.cc/D0NLM2LD/vfx-man.png" alt="MasterHead" width="300">
-</a>
+<div align="center">
+  <a href="https://i.postimg.cc/D0NLM2LD/vfx-man.png">
+    <img src="https://i.postimg.cc/D0NLM2LD/vfx-man.png" alt="MasterHead" style="width: 50%;">
+  </a>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Euan Goodbrand</h1>
