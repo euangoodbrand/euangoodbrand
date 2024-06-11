@@ -43,5 +43,5 @@
 
 <p align="center" style="position: relative; display: inline-block;">
     <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/page_bottom.svg" alt="Github Stats" style="width: 100%;">
-    <img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);">
+    <img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count" style="position: absolute; top: 0; left: 50%; transform: translateX(0%);">
 </p>
