@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<ul style="list-style: none; text-align: center;">
+<ul style="list-style: none; text-align: bottom;">
   <li>🔭
     <a href="https://github.com/euangoodbrand/euangoodbrand">
       <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
