@@ -48,5 +48,5 @@
 
 
 <p align="center">
-        <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/page_bottom.svg" alt="Github Stats" />
 </p>
