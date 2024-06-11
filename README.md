@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   </li>
   <li>🌱
     <a href="https://github.com/euangoodbrand/euangoodbrand">
-      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20Currently%20learning%20Double%20deep%20Q-learning%20network%20applications&font=Fira%20Code&center=true&width=800&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
     </a>
   </li>
 </ul>
@@ -31,6 +31,7 @@
     <a href="https://github.com/euangoodbrand"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
   </p>
 </div>
+
 
 <!-- Commented out the skills part
 
