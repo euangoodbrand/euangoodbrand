@@ -25,10 +25,16 @@
   </li>
 </ul>
 
+
+
+
 <div align="center">
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count">
-  </p>
+  <table>
+    <tr>
+      <td>You are visitor</td>
+      <td><img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="" /></td>
+    </tr>
+  </table>
   <div style="position: relative; display: inline-block;">
     <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/page_bottom.svg" alt="Github Stats" style="width: 100%;">
     <div style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%);">
