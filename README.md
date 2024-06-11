@@ -2,7 +2,7 @@
   <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="Assets/3D-printing-green.svg" height="125" alt="3D Printing" style="vertical-align: middle;">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Background%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=550&height=60&color=20C20E&vCenter=true&pause=1000&size=22" style="vertical-align: middle;" />
-    <img src="Assets/battery-green.svg" height="125" alt="Battery" style="vertical-align: middle;">
+    <img src="Assets/battery.svg" height="125" alt="Battery" style="vertical-align: middle;">
   </a>
 </p>
 
