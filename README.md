@@ -5,8 +5,12 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Euan Goodbrand</h1>
-<h3 align="center">A passionate Software Developer focused on AI/ML with an interest in Visual Effects</h3>
+<p align="center">
+  <a href="https://github.com/euangoodbrand/euangoodbrand">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
 
 [![SuOEO.gif](https://s11.gifyu.com/images/SuOEO.gif)](https://s11.gifyu.com/images/SuOEO.gif)
 - 🔭 I’m currently studying **MSc in AI and ML @ ICL**
