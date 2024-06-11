@@ -6,21 +6,22 @@
 
 <p align="center">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🔭%20I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=30" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🌱%20I%E2%80%99m%20currently%20learning%20Double%20deep%20Q-learning%20network%20applications&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=30" />
-  </a>
-</p>
+<ul style="list-style: none; text-align: center;">
+  <li>🔭
+    <a href="https://github.com/euangoodbrand/euangoodbrand">
+      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+    </a>
+  </li>
+  <li>🌱
+    <a href="https://github.com/euangoodbrand/euangoodbrand">
+      <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20learning%20Double%20deep%20Q-learning%20network%20applications&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+    </a>
+  </li>
+</ul>
 
 <div align='center'>
   <p align='center'>
