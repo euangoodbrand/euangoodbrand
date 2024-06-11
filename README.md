@@ -8,13 +8,13 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/eyuangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=000000&vCenter=true&pause=100&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=000000&vCenter=true&pause=500&size=22" />
   </a>
 </div>
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=000000&vCenter=true&pause=100&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20learning%20DNN%20for%20label%20and%20feature%20noise;GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=000000&vCenter=true&pause=500&size=22" />
   </a>
 </div>
 <div align='center'>
