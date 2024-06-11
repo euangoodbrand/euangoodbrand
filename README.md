@@ -21,7 +21,13 @@
   <p align='center'>
     <a href="https://www.linkedin.com/in/euangoodbrand/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:euangoodbrand@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://github.com/euangoodbrand?tab=followers"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
+    <a href="https://github.com/euangoodbrand"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
+    <a href="https://github.com/euangoodbrand?tab=followers">
+      <img height="30" src="https://img.shields.io/github/followers/euangoodbrand?label=Follow%20Me&style=social" alt="GitHub Follow">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/euangoodbrand/euangoodbrand/stargazers">
+      <img height="30" src="https://img.shields.io/github/stars/euangoodbrand/euangoodbrand?style=social" alt="GitHub Stars">
+    </a>&nbsp;&nbsp;
   </p>
 </div>
 
