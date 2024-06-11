@@ -43,7 +43,8 @@
 
 <div style="position: relative; width: 100%; text-align: center;">
   <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/page_bottom.svg" alt="Github Stats" style="width: 100%;"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-    <img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; width: auto; height: auto;">
+    <img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count" style="width: auto; height: auto;"/>
   </div>
 </div>
+
