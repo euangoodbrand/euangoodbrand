@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Double deep Q-learning network applications**
 
-- 📫 How to reach me **euangoodbrand@gmail.com**
 
 <div align='center'>
   <p align='center'>
