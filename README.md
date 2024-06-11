@@ -1,21 +1,16 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://i.postimg.cc/D0NLM2LD/vfx-man.png">
     <img src="https://i.postimg.cc/D0NLM2LD/vfx-man.png" alt="MasterHead" style="width: 50%;">
   </a>
-</div>
+</div> -->
 
 <p align="center">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" />
+    <img src="assets/3D-printing.svg" height="40" alt="3D Printing" style="vertical-align: middle;">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Euan%20Goodbrand;ML%20Engineer%20and%20Software%20Developer;Prior%20background%20and%20interest%20in%20Architecture%20and%20VFX&font=Fira%20Code&center=true&width=650&height=60&color=1E90FF&vCenter=true&pause=1000&size=22" style="vertical-align: middle;" />
+    <img src="assets/battery.svg" height="40" alt="Battery" style="vertical-align: middle;">
   </a>
 </p>
-
-<p align="center">
-  <img src="Assets/3D-printing.svg" height="40" alt="3D Printing">
-  <span style="font-size: 22px; margin: 0 15px;">Euan Goodbrand</span>
-  <img src="Assets/battery.svg" height="40" alt="Battery">
-</p>
-
 <ul style="list-style: none; text-align: center; padding: 0;">
   <li style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
     <span style="font-size: 22px; margin-right: 8px;">🔭</span>
