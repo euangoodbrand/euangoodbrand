@@ -17,16 +17,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20researching%20DNNs%20for%20label%20and%20feature%20noise;Researching%20GNN%20applications%20for%20brain%20graph%20super%20resolution;ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=000000&vCenter=true&pause=500&size=22" />
   </a>
 </div>
+
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/euangoodbrand/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:euangoodbrand@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://github.com/euangoodbrand"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
-    <a href="https://github.com/euangoodbrand?tab=followers">
-      <img height="30" src="https://img.shields.io/github/followers/euangoodbrand?label=Follow%20Me&style=social" alt="GitHub Follow">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/euangoodbrand/euangoodbrand/stargazers">
-      <img height="30" src="https://img.shields.io/github/stars/euangoodbrand/euangoodbrand?style=social" alt="GitHub Stars">
+    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Feuangoodbrand%3Ftab%3Dfollowers">
+      <img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
     </a>&nbsp;&nbsp;
   </p>
 </div>
