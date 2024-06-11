@@ -7,7 +7,7 @@
 </p>
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/eyuangoodbrand/euangoodbrand">
+  <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=000000&vCenter=true&pause=500&size=22" />
   </a>
 </div>
@@ -21,7 +21,7 @@
   <p align='center'>
     <a href="https://www.linkedin.com/in/euangoodbrand/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:euangoodbrand@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://github.com/euangoodbrand"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
+    <a href="https://github.com/euangoodbrand?tab=followers"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp;
   </p>
 </div>
 
