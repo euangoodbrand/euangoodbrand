@@ -8,7 +8,8 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%E2%80%99m%20currently%20studying%20MSc%20in%20AI%20and%20ML%20@%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
+    <!-- Updated Line Below -->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Graduated%20with%20MSc%20in%20AI%20and%20ML%20from%20ICL&font=Fira%20Code&center=true&width=650&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
   </a>
 </div>
 
@@ -18,19 +19,19 @@
   </a>
 </div>
 
-<!-- New Section Added -->
+<!-- Existing Section for Current Position -->
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20a%20Machine%20Learning%20Engineer%20at%20Mercedes%20AMG%20Petronas%20Formula%20One%20Team;Specializing%20in%20Deep%20Graph-Based%20Learning%20and%20HPC&font=Fira%20Code&center=true&width=800&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
   </a>
 </div>
-<!-- End of New Section -->
+<!-- End of Existing Section -->
 
 <div align='center'>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/euangoodbrand/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/euangoodbrand/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="mailto:euangoodbrand@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1" alt="Email"></a>&nbsp;&nbsp;
-    <!-- <a href="https://github.com/euangoodbrand"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>&nbsp;&nbsp; -->
+    <!-- <a href="https://github.com/euangoodbrand"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a>&nbsp;&nbsp; -->
     <a href="https://github.com/euangoodbrand?tab=followers">
       <img height="30" src="https://img.shields.io/github/followers/euangoodbrand?label=Follow%20Me&style=social" alt="GitHub Follow">
     </a>&nbsp;&nbsp;
