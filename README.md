@@ -6,19 +6,19 @@
   </a>
 </p>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 10px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="https://readme-typing-svg.demolab.com/?lines=Deep%20Learning%20Research%20for%20Noisy%20and%20Imbalanced%20Systems%20Data&font=Fira%20Code&center=true&width=650&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
   </a>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 10px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="https://readme-typing-svg.demolab.com/?lines=Researching%20Deep%20Graph-Based%20Learning%20Techniques;Neural%20Operators%20and%20Physics-Informed%20Neural%20Networks%20(PINNs);ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
   </a>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 10px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
     <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20a%20Machine%20Learning%20Engineer%20at%20Mercedes%20AMG%20Petronas%20Formula%20One%20Team;Specializing%20in%20Deep%20Graph-Based%20Learning%20and%20HPC&font=Fira%20Code&center=true&width=800&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
   </a>
