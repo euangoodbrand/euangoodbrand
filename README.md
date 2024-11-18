@@ -43,7 +43,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>You are visitor</td>
+      <td>You are visitor: </td>
       <td><img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
