@@ -12,11 +12,7 @@
   </a>
 </div>
 
-<div align="center" style="margin: 10px 0;">
-  <a href="https://github.com/euangoodbrand/euangoodbrand">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Researching%20Deep%20Graph-Based%20Learning%20Techniques;Neural%20Operators%20and%20Physics-Informed%20Neural%20Networks%20(PINNs);ML%20%40%20scale%20for%20Hotel%20data%20across%20globe%20🌍&font=Fira%20Code&center=true&width=800&height=60&color=20C20E&vCenter=true&pause=500&size=22" />
-  </a>
-</div>
+
 
 <div align="center" style="margin: 10px 0;">
   <a href="https://github.com/euangoodbrand/euangoodbrand">
