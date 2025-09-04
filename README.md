@@ -36,14 +36,7 @@
   </p>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>You are visitor: </td>
-      <td><img src="https://profile-counter.glitch.me/euangoodbrand/count.svg" alt="Visitor Count" /></td>
-    </tr>
-  </table>
-</div>
+
 
 <p align="center">
   <img src="https://github.com/euangoodbrand/euangoodbrand/raw/main/Assets/page_bottom.svg" alt="Page Bottom" />
