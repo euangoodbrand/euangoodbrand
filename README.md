@@ -27,12 +27,10 @@
 
 <p align="center">
   I currently work at the <b>Mercedes-AMG Petronas Formula One Team</b>, where I focus on machine learning for aerodynamic development.
-  My work has included deep graph-based learning, CFD data pipelines, 3D geometry processing, transformer-based architectures, and large-scale GPU/HPC workflows.
 </p>
 
 <p align="center">
-  I am also an incoming <b>DPhil researcher at the University of Oxford Visual Geometry Group</b>, working under <b>Professor Andrea Vedaldi</b>.
-  My research interests include visual inverse design, 3D representation learning, graph neural networks, geometry-aware deep learning, and learning from imperfect scientific data.
+  I am also an incoming <b>DPhil researcher at the University of Oxford Visual Geometry Group</b>, working under <b>Professor Andrea Vedaldi</b>, in Spatial AI & Reasoning.
 </p>
 
 ---
