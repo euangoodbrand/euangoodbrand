@@ -18,24 +18,6 @@
   </a>
 </div>
 
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/euangoodbrand/">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" alt="LinkedIn">
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:euangoodbrand@gmail.com">
-      <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1" alt="Email">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/euangoodbrand?tab=followers">
-      <img height="30" src="https://img.shields.io/github/followers/euangoodbrand?label=Follow%20Me&style=social" alt="GitHub Follow">
-    </a>
-  </p>
-</div>
-
----
-
 <h2 align="center">About Me</h2>
 
 <p align="center">
